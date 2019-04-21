@@ -6,7 +6,16 @@ _Tutorials and introduction_
 
 ## Content
 
+[TMUX Setup](#setup)
+
+[Commands explanation](#commandsexplanation)
+
 [Useful Links](#usefullinks)
+
+## TMUX setup <a id="setup" />
+
+
+## Commands explanation <a id="commandsexplanation" />
 
 
 
