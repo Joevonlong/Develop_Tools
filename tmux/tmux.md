@@ -1,4 +1,4 @@
-TMUX 
+TMUX - User Manual
 ============
 
 _Tutorials and introduction_
@@ -28,3 +28,7 @@ _Tutorials and introduction_
 [tmux cheet sheet 3](https://alvinalexander.com/linux-unix/tmux-cheat-sheet-commands-pdf)
 
 [tmux cheet sheet 4](https://gist.github.com/MohamedAlaa/2961058)
+
+[在 Linux/Mac 安装 Tmux 及其配置 ](https://my.oschina.net/am313/blog/865915)
+
+[github- 上一个美化config](https://github.com/gpakosz/.tmux)
